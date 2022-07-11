@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442087587450",
+    "project_id": "aeconomy-961d0",
+    "storage_bucket": "aeconomy-961d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442087587450:android:cce681ead1ce1f5e0685c3",
+        "android_client_info": {
+          "package_name": "com.navtech.conomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442087587450-9vet94nvsibgq45dstg55op4dl26f8e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOf9CEUMpYr0yqLGYJs-tKGdJJO2iLU_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442087587450-9vet94nvsibgq45dstg55op4dl26f8e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

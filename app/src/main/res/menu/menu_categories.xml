@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fab_options_servicios"
+        android:icon="@drawable/ic_servicios_black"
+        android:title="Servicios" />
+
+    <item
+        android:id="@+id/fab_options_alimentacion"
+        android:icon="@drawable/ic_alimentacion_black"
+        android:title="Alimentación" />
+
+    <item
+        android:id="@+id/fab_options_pagos"
+        android:icon="@drawable/ic_pagos_black"
+        android:title="Pagos Generales" />
+
+
+    <item
+        android:id="@+id/fab_options_transporte"
+        android:icon="@drawable/ic_transporte_black"
+        android:title="Transporte" />
+
+    <item
+        android:id="@+id/fab_options_salud"
+        android:icon="@drawable/ic_salud_black"
+        android:title="Salud" />
+
+
+    <item
+        android:id="@+id/fab_options_vestimenta"
+        android:icon="@drawable/ic_vestimenta_black"
+        android:title="Vestimenta" />
+
+    <item
+        android:id="@+id/fab_options_viajes"
+        android:icon="@drawable/ic_viajes_black"
+        android:title="Viajes" />
+
+    <item
+        android:id="@+id/fab_options_alquiler"
+        android:icon="@drawable/ic_alquiler_black"
+        android:title="Alquiler" />
+
+</menu>
